@@ -52,7 +52,7 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: node-app
-        path: ./google-signin/build
+        path: ./google-signin/google-signin/build
 
   deploy:
     permissions:
