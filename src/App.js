@@ -17,7 +17,7 @@ function App() {
           Learn React
         </a>
         <a href="/.auth/login/facebook?post_login_redirect_uri=/Home/Index"><button style={{padding:"0.5rem 1rem",margin:"1rem"}}>Log in with Facebook</button></a>
-        <a href="/.auth/login/google?post_login_redirect_uri=/Home/Index"><button style={{padding:"0.5rem 1rem",margin:"1rem"}}>Log in with Google</button></a>
+        <a href="/.auth/login/google?post_login_redirect_uri=https://CoordinatedGiganticDrawings.adityanair14.repl.co"><button style={{padding:"0.5rem 1rem",margin:"1rem"}}>Log in with Google</button></a>
 
       </header>
     </div>
